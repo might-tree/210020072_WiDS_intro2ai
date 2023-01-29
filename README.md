@@ -3,7 +3,7 @@
 This repository contains my final submission for the project *Introduction to Artificial Intelligence with Python* under Winter in Data Science, 2022, conducted by the Analytics Club, IIT Bombay. 
 
 In this project, **makemore** has been implemented through a few sample Jupyter notebooks. The comments indicate the implemented original code.
-* [Written Assignment] (https://drive.google.com/file/d/1N9w6i2592zKWhVxv0lIzxosIbH-wLnAg/view?usp=sharing)
+* [Written Assignment](https://drive.google.com/file/d/1N9w6i2592zKWhVxv0lIzxosIbH-wLnAg/view?usp=sharing)
 * [Introduction to neural networks: building micrograd](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/micrograd_exercises.ipynb)
 * [MultiLayer Perceptron](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_makemore_mlp.ipynb)
 * [Activations & Gradients, BatchNorm](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_makemore_batchnorm.ipynb)
