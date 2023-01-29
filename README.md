@@ -13,4 +13,4 @@ In this project, **makemore** has been implemented through a few sample Jupyter 
 * [Activations & Gradients, BatchNorm](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_makemore_batchnorm.ipynb)
 * [Backpropagation](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_makemore_backprop_ninja.ipynb)
 * [Wavenet](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_makemore_wavenet.ipynb)
-* [Building a GPT]()
+* [Building a GPT](https://github.com/might-tree/210020072_WiDS_intro2ai/blob/main/build_gpt.py)
