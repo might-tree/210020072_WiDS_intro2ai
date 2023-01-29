@@ -1,6 +1,6 @@
 # Winter in Data Science 2022 submission
 
-This repository contains my final submission for the project *Introduction to Artificial Intelligence with Python* under Winter in Data Science, 2022, conducted by the Analytics Club, IIT Bombay. 
+This repository contains my final submission for the project **Introduction to Artificial Intelligence with Python** under Winter in Data Science, 2022, conducted by the Analytics Club, IIT Bombay. In this project, I learnt the fundamentals of AI and how to apply them to solve real-world problems.
 
 In this project, **makemore** has been implemented through a few sample Jupyter notebooks. The comments indicate the implemented original code.
 * [Written Assignment](https://drive.google.com/file/d/1N9w6i2592zKWhVxv0lIzxosIbH-wLnAg/view?usp=sharing)
